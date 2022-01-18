@@ -1,0 +1,23 @@
+{
+  "name": "w2ch2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InnaIazovskaia/202201-W2CH2-inna-iazovskaia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InnaIazovskaia/202201-W2CH2-inna-iazovskaia/issues"
+  },
+  "homepage": "https://github.com/InnaIazovskaia/202201-W2CH2-inna-iazovskaia#readme",
+  "devDependencies": {
+    "husky": "^7.0.4"
+  }
+}
